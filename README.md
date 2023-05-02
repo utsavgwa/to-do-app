@@ -31,4 +31,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-This app is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the [LICENSE]() file for more information.
+This app is licensed under the MIT License. See the [LICENSE](https://github.com/utsavgwa/to-do-app/blob/main/LICENSE) file for more information.
